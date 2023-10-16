@@ -1,0 +1,25 @@
+{
+  "name": "awesome-neobrutalism",
+  "version": "1.0.0",
+  "description": "a curated list of content regarding neobrutalism",
+  "main": "README.me",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "neobrutalism",
+    "neubrutalism",
+    "brutalism",
+    "UI",
+    "ui-kit",
+    "library",
+    "React",
+    "Tailwind",
+    "CSS",
+    "Frontend",
+    "Javascript",
+    "Typescript"
+  ],
+  "author": "ComradeAERGO",
+  "license": "ISC"
+}
