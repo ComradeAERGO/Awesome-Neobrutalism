@@ -34,6 +34,7 @@ Real-world examples:
 - [Gumroad](https://gumroad.com/)
 - [Figma](https://www.figma.com/about/)
 - [MongoDB](https://www.mongodb.com/)
+- [Peanut.to](https://peanut.to/)
 - [Fig Challenge](https://www.figchallenge.com/join)
 - [ModernArch Weather App](https://github.com/natasam/ModernArchWeatherApp#screens-)
 - [Hybrid State Of Mind](https://www.hybridstateofmind.com/)
