@@ -54,7 +54,9 @@ Real-world examples:
 
 ## Figma UI Kit
 
-- [Figma UI Kit](https://www.figma.com/community/file/1209478811951634271/neo-brutalism-ui-kit)
+- [UI Kit - By Muhamad Digdaya](https://www.figma.com/community/file/1209478811951634271/neo-brutalism-ui-kit)
+- [UI Kit - By Viipin Designer](https://www.figma.com/community/file/1123166854111832208/neubrutalism-ui)
+- [Icon Set - by Alex Martynov ](https://www.figma.com/community/file/1092848226893690641)
 
 ## Dribbble
 
@@ -84,6 +86,8 @@ Dive deeper into the Neobrutalism UI trend through these insightful articles and
 
 - [Neubrutalism is taking over Web](https://hype4.academy/articles/design/neubrutalism-is-taking-over-web)
 - [Neo-brutalism in UI/UX Design: A Bold and Unique Style](https://medium.com/@natasa.misic10/neo-brutalism-in-ui-ux-design-a-bold-and-unique-style-ac6d49e92e8f)
+- [Neubrutalism in webdesign, Embracing the ugly](https://www.svgator.com/blog/neubrutalism-in-web-design-embracing-the-ugly/)
+- [What is the Neubrutalism Web Design Trend?](https://webdesign.tutsplus.com/what-is-the-neubrutalism-web-design-trend--cms-41576a)
 
 ---
 
