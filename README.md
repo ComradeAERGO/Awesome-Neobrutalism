@@ -46,7 +46,7 @@ Real-world examples:
 ## Cheatsheet
 
 - [Neobrutalism Cheatsheet](https://bafybeidgnnbwfdhbaxgh24hzzxxuxwenywkvyqitbi4d6uuudgv6xuwesm.ipfs.dweb.link/) by Sepideh Yazdi ([Medium Profile](https://medium.com/u/c2c891fcb5d9))
-- [Neobrutalism Color Palette](https://cdn.dribbble.com/users/747449/screenshots/21739202/downloads/%F0%9F%8C%88Snowball-Colors.png) by by Lea Mendes Da Silva ([Linkedin](https://www.linkedin.com/in/leadesign/))
+- [Neobrutalism Color Palette](https://cdn.dribbble.com/users/747449/screenshots/21739202/downloads/%F0%9F%8C%88Snowball-Colors.png) by Lea Mendes Da Silva ([Linkedin](https://www.linkedin.com/in/leadesign/))
 
 ## Video Tutorials
 
