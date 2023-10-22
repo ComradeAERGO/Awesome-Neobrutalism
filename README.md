@@ -30,6 +30,7 @@
 
 Real-world examples:
 
+- [Mozilla Firefox Family](https://www.mozilla.org/en-US/firefox/family/)
 - [Gandi.net](https://www.gandi.net/en-GB)
 - [Gumroad](https://gumroad.com/)
 - [Figma](https://www.figma.com/about/)
