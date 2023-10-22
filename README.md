@@ -65,6 +65,7 @@ React and Tailwind components libraries for quick prototyping and building Neobr
 
 - For React: [Neobrutalism components](https://github.com/ekmas/neobrutalism-components)
 - For Tailwind: [Neobrutalism UI Lib](https://github.com/marieooq/neo-brutalism-ui-library)
+- For Flutter: [Neubrutalism UI](https://github.com/deepraj02/neubrutalism_ui)
 
 ## Articles and Design Analysis
 
