@@ -57,8 +57,16 @@ Real-world examples:
 
 ## Dribbble
 
-- [Neo Brutalism Collection](https://dribbble.com/tags/neobrutalism-ui)
-- [Analytics Dashboard Design](https://dribbble.com/shots/22476074-Omni-Analytics-Dashboard)
+- [AI Homework Solver Mobile App - by Orely]([https://dribbble.com/shots/22476074-Omni-Analytics-Dashboard](https://dribbble.com/shots/22396887-AI-Homework-Solver-Mobile-App))
+- [Bruddle UI Kit - by UI8]([https://dribbble.com/shots/22476074-Omni-Analytics-Dashboard](https://dribbble.com/shots/21279982-Bruddle-UI-Kit))
+- [Finance Banking App - by Nishar Multani]([https://dribbble.com/shots/22476074-Omni-Analytics-Dashboard](https://dribbble.com/shots/20960656-Finance-Banking-App))
+- [Statsy.com - by Tomasz Osowksi]([https://dribbble.com/shots/22476074-Omni-Analytics-Dashboard](https://dribbble.com/shots/19525034-Statsy-com-Neubrutalism-Landing-Page-for-our-analytics-tool))
+- [Portfolio Redesign - by Krishtina Volchek]([https://dribbble.com/shots/22476074-Omni-Analytics-Dashboard](https://dribbble.com/shots/21066046-Personal-Website-Redesign-Product-Designer-Design-Mentor))
+- [CRM Homepage - by Nazmi Javier]([https://dribbble.com/shots/22476074-Omni-Analytics-Dashboard](https://dribbble.com/shots/22284248-CRM-Homepage))
+- [Fintech Website - by Seative Digital]([https://dribbble.com/shots/22476074-Omni-Analytics-Dashboard](https://dribbble.com/shots/20378634-Fintech-Website-Chorke-Landing-Page))
+- [Design Community - by Giorhi Migrauli]([https://dribbble.com/shots/22476074-Omni-Analytics-Dashboard](https://dribbble.com/shots/19564088-Design-Community))
+- [Snowball Desktop App - by Lea Mendes Da Silva]([https://dribbble.com/shots/22476074-Omni-Analytics-Dashboard](https://dribbble.com/shots/22354804-Snowball-Desktop-App-Navigation)
+- [Responsive Web Design - by Daria Wojczuk-Kalandyk]([https://dribbble.com/shots/22476074-Omni-Analytics-Dashboard](https://dribbble.com/shots/21015061-Responsive-Web-Design-Neo-Brutalism)
 
 ## Components Libraries
 
