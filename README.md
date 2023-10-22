@@ -55,9 +55,10 @@ Real-world examples:
 
 - [Figma UI Kit](https://www.figma.com/community/file/1209478811951634271/neo-brutalism-ui-kit)
 
-## Dribbble Collection
+## Dribbble
 
-- [Neo Brutalism Collection on Dribbble](https://dribbble.com/tags/neobrutalism-ui)
+- [Neo Brutalism Collection](https://dribbble.com/tags/neobrutalism-ui)
+- [Analytics Dashboard Design](https://dribbble.com/shots/22476074-Omni-Analytics-Dashboard)
 
 ## Components Libraries
 
