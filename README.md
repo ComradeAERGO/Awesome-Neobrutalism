@@ -81,9 +81,8 @@ Real-world examples:
 
 ## Components Libraries
 
-React and Tailwind components libraries for quick prototyping and building Neobrutalism UIs:
-
 - For Astro: [Brutal: A theme for Astro](https://github.com/eliancodes/brutal)
+- For React: [Fractal: A Complete design system](https://github.com/snowball-tech/fractal/tree/main/packages/fractal)
 - For React: [NBRTLSM](https://github.com/ekmas/neobrutalism-components)
 - For Tailwind: [Neo-brutalism UI Library](https://github.com/marieooq/neo-brutalism-ui-library)
 - For Flutter: [Neubrutalism UI](https://github.com/deepraj02/neubrutalism_ui)
