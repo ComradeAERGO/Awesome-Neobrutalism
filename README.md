@@ -95,6 +95,7 @@ Dive deeper into the Neobrutalism UI trend through these insightful articles and
 - [Neo-brutalism in UI/UX Design: A Bold and Unique Style](https://medium.com/@natasa.misic10/neo-brutalism-in-ui-ux-design-a-bold-and-unique-style-ac6d49e92e8f)
 - [Neubrutalism in webdesign, Embracing the ugly](https://www.svgator.com/blog/neubrutalism-in-web-design-embracing-the-ugly/)
 - [What is the Neubrutalism Web Design Trend?](https://webdesign.tutsplus.com/what-is-the-neubrutalism-web-design-trend--cms-41576a)
+- [The epic story of a design system birth](https://medium.com/snowball-insider-the-frosty-fintech-from-the/the-epic-story-of-a-design-system-birth-%EF%B8%8F-fractal-795328952317)
 
 ---
 
