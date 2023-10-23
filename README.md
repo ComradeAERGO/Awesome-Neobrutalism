@@ -41,6 +41,7 @@ Real-world examples:
 - [MongoDB](https://www.mongodb.com/)
 - [Mozilla Firefox Family](https://www.mozilla.org/en-US/firefox/family/)
 - [Muhamad Digdaya](https://muhamaddigdaya.xyz/)
+- [Panda CSS](https://panda-css.com/)
 - [Peanut.to](https://peanut.to/)
 - [Snowball](https://www.snowball.xyz/)
 
