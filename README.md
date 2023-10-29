@@ -34,6 +34,7 @@ Real-world examples:
 - [CC Creative](https://www.cccreative.design/)
 - [Fig Challenge](https://www.figchallenge.com/join)
 - [Figma](https://www.figma.com/about/)
+- [Frichti Market](https://frichti.co/)
 - [Gandi.net](https://www.gandi.net/en-GB)
 - [Gumroad](https://gumroad.com/)
 - [Hybrid State Of Mind](https://www.hybridstateofmind.com/)
