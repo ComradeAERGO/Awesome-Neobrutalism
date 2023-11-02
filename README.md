@@ -44,6 +44,7 @@ Real-world examples:
 - [Muhamad Digdaya](https://muhamaddigdaya.xyz/)
 - [Panda CSS](https://panda-css.com/)
 - [Peanut.to](https://peanut.to/)
+- [Percentage Calculator](https://muhamaddigdaya.github.io/percentage-calculator/)
 - [Shine](https://www.shine.fr/)
 - [Snowball](https://www.snowball.xyz/)
 - [The Verge](https://www.theverge.com/)
