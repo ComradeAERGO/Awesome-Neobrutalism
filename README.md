@@ -48,6 +48,7 @@ Real-world examples:
 - [Shine](https://www.shine.fr/)
 - [Snowball](https://www.snowball.xyz/)
 - [The Verge](https://www.theverge.com/)
+- [Zama](https://www.zama.ai/)
 
 ## Cheatsheet
 
