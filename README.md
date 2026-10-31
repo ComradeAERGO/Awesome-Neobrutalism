@@ -31,6 +31,7 @@
 Real-world examples:
 
 - [Bite Sized Design](https://www.bitesized.design/)
+- [ByteUI](https://byte-ui.vercel.app/)
 - [CC Creative](https://www.cccreative.design/)
 - [Fig Challenge](https://www.figchallenge.com/join)
 - [Figma](https://www.figma.com/about/)
@@ -87,7 +88,7 @@ Real-world examples:
 ## Components Libraries
 
 - For Astro: [Brutal: A theme for Astro](https://github.com/eliancodes/brutal)
-- For React: [Fractal: A Complete design system](https://github.com/snowball-tech/fractal/tree/main/packages/fractal)
+- For React: [Fractal: A Complete design system](https://github.com/snowball-tech/fractal/tree/main/packages/fractal) , [ByteUI](https://github.com/Namanv0509/ByteUI)
 - For React: [NBRTLSM](https://github.com/ekmas/neobrutalism-components)
 - For Tailwind: [Neo-brutalism UI Library](https://github.com/marieooq/neo-brutalism-ui-library)
 - For Flutter: [Neubrutalism UI](https://github.com/deepraj02/neubrutalism_ui)
